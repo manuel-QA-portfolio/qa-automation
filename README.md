@@ -34,6 +34,6 @@ Complete Cucumber Course (Udemy)
 📬 Contact
 Feel free to connect:
 
-LinkedIn
+[LinkedIn](www.linkedin.com/in/manuellopez)
 
 Email: manulm91@proton.me
