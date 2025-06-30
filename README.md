@@ -24,18 +24,54 @@ This repository is designed to demonstrate my practical experience and coding st
 
 ---
 
-## 📂 Repository Structure
+## 🔧 Tools & Technologies
 
-This portfolio is organized into two main testing frameworks:
+This portfolio demonstrates practical usage of:
+- **Java 21**
+- **Cucumber** (for Gherkin-style acceptance tests)
+- **Karate DSL** (for declarative API testing)
+- **WireMock** (for service mocking and stubbing)
+- **Testcontainers** (for isolated test environments)
+- **Gradle** (build automation with a focus on Kotlin DSL)
 
-- **Cucumber Tests**:  
-  - Kafka  
-  - TestContainers  
-  - Wiremock
+## 📁 Repository Structure
 
-- **Karate Tests**
+qa-portfolio/
+├── cucumber/ # Acceptance tests with Cucumber, WireMock, and Testcontainers
+├── karate/ # API tests with Karate DSL
+└── README.md # This file
 
-Each module contains its own README with detailed explanations and examples.
+markdown
+Copiar
+Editar
+
+Each subfolder includes:
+- A technical README
+- A realistic structure similar to production test suites
+- Empty placeholders where real test scenarios can be pasted
+
+## 🧪 Scope of the Tests
+
+- REST API validation
+- Mocked service interactions
+- Dynamic data-driven test cases
+- Happy-path scenarios
+- Realistic usage of WireMock and Testcontainers
+
+> ❗ Note: These projects are **not meant to be executed**. They are structured to showcase test design, not to run in isolation.
+
+## 📌 Notes
+
+- All examples are adapted from real projects and fully anonymized.
+- Test scenarios are written in English and will be added progressively.
+- This portfolio is intended to demonstrate technical understanding, structure, and design of automated tests in professional environments.
+
+## 🚀 How to Explore
+
+- Go to [`/cucumber`](./cucumber) for Gherkin-based tests using Cucumber, Java, and mocking tools.
+- Go to [`/karate`](./karate) for standalone, declarative API tests using Karate DSL.
+
+Feel free to explore, reuse, or get inspired!
 
 🎓 Certifications
 Advanced Karate Course (Udemy)
