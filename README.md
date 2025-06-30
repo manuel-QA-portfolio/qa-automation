@@ -36,14 +36,10 @@ This portfolio demonstrates practical usage of:
 
 ## 📁 Repository Structure
 
-qa-portfolio/
-├── cucumber/ # Acceptance tests with Cucumber, WireMock, and Testcontainers
-├── karate/ # API tests with Karate DSL
-└── README.md # This file
-
-markdown
-Copiar
-Editar
+qa-portfolio/  
+├── cucumber/ # Acceptance tests with Cucumber, WireMock, and Testcontainers  
+├── karate/ # API tests with Karate DSL  
+└── README.md # This file  
 
 Each subfolder includes:
 - A technical README
