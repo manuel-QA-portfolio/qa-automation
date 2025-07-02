@@ -1,0 +1,93 @@
+[
+  {
+    "accountNumber": "123456789",
+    "transactionId": "TXN1234567890",
+    "amount": 12.32,
+    "currency": "EUR",
+    "country": "DE",
+    "dateTime": "2023-09-25T00:00",
+    "timezone": "Europe/Berlin",
+    "provider": "BANK_A",
+    "transactionType": "WITHDRAWAL",
+    "concept": "ATM withdrawal",
+    "description": "ATM withdrawal at downtown branch"
+  },
+  {
+    "accountNumber": "987654321",
+    "transactionId": "TXN9876543210",
+    "amount": 1135.32,
+    "currency": "EUR",
+    "country": "DE",
+    "dateTime": "2023-09-25T00:00",
+    "timezone": "Europe/Berlin",
+    "provider": "BANK_B",
+    "transactionType": "DEPOSIT",
+    "concept": "Direct deposit from payroll",
+    "description": "Direct deposit from employer"
+  },
+  {
+    "accountNumber": "1122334455",
+    "transactionId": "TXN1122334455",
+    "amount": 1135.32,
+    "currency": "EUR",
+    "country": "DE",
+    "dateTime": "2023-09-25T01:00",
+    "timezone": "Europe/Berlin",
+    "provider": "BANK_C",
+    "transactionType": "TRANSFER",
+    "concept": "Transfer to savings account",
+    "description": "Funds transferred to savings account"
+  },
+  {
+    "accountNumber": "6677889900",
+    "transactionId": "TXN6677889900",
+    "amount": 250.5,
+    "currency": "EUR",
+    "country": "DE",
+    "dateTime": "2023-09-12T01:00",
+    "timezone": "Europe/Berlin",
+    "provider": "BANK_A",
+    "transactionType": "WITHDRAWAL",
+    "concept": "ATM withdrawal",
+    "description": "ATM withdrawal at city center"
+  },
+  {
+    "accountNumber": "9988776655",
+    "transactionId": "TXN9988776655",
+    "amount": 580.43,
+    "currency": "EUR",
+    "country": "DE",
+    "dateTime": "2023-09-25T00:00",
+    "timezone": "Europe/Berlin",
+    "provider": "BANK_B",
+    "transactionType": "FEE",
+    "concept": "Account maintenance fee",
+    "description": "Monthly account maintenance fee"
+  },
+  {
+    "accountNumber": "1122339988",
+    "transactionId": "TXN1122339988",
+    "amount": 100.78,
+    "currency": "EUR",
+    "country": "DE",
+    "dateTime": "2023-09-25T00:00",
+    "timezone": "Europe/Berlin",
+    "provider": "BANK_C",
+    "transactionType": "FINE",
+    "concept": "Late fee",
+    "description": "Late fee for overdue payment"
+  },
+  {
+    "accountNumber": "1234567889",
+    "transactionId": "TXN1234567889",
+    "amount": 1135.32,
+    "currency": "EUR",
+    "country": "DE",
+    "dateTime": "2023-09-25T03:45",
+    "timezone": "Europe/Berlin",
+    "provider": "BANK_A",
+    "transactionType": "WITHDRAWAL",
+    "concept": "Bill payment",
+    "description": "Payment for utility bill"
+  }
+]

@@ -20,7 +20,7 @@ What best defines me is my full commitment to everything I do. I am hardworking,
 
 I always keep an eye on the future—automated testing is gaining momentum, and that's why I am actively training and upskilling in this area.
 
-This repository is designed to demonstrate my practical experience and coding style to recruiters and QA professionals.
+This repository is designed to demonstrate my practical experience and coding style.
 
 ---
 
@@ -29,10 +29,9 @@ This repository is designed to demonstrate my practical experience and coding st
 This portfolio demonstrates practical usage of:
 - **Java 21**
 - **Cucumber** (for Gherkin-style acceptance tests)
-- **Karate DSL** (for declarative API testing)
+- **Karate DSL** (for API testing)
 - **WireMock** (for service mocking and stubbing)
 - **Testcontainers** (for isolated test environments)
-- **Gradle** (build automation with a focus on Kotlin DSL)
 
 ## 📁 Repository Structure
 
@@ -59,8 +58,9 @@ Each subfolder includes:
 ## 📌 Notes
 
 - All examples are adapted from real projects and fully anonymized.
-- Test scenarios are written in English and will be added progressively.
-- This portfolio is intended to demonstrate technical understanding, structure, and design of automated tests in professional environments.
+- Refactored from actual projects; fully anonymized.
+- Written test scenario: English, and more to come along the way.
+- This portfolio will present technical understanding, construction, and design of automated tests in real professional environments.
 
 ## 🚀 How to Explore
 
@@ -70,9 +70,8 @@ Each subfolder includes:
 Feel free to explore, reuse, or get inspired!
 
 🎓 Certifications
-Advanced Karate Course (Udemy)
-
-Complete Cucumber Course (Udemy)
+-- Advanced Karate Course (Udemy)
+-- Cucumber Course (Udemy)
 
 📬 Contact
 Feel free to connect:

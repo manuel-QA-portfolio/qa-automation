@@ -1,0 +1,54 @@
+[
+  {
+    "accountNumber": "123456789",
+    "transactionId": "TXN1234567890",
+    "amount": -12.32,
+    "currency": "EUR",
+    "country": "DE",
+    "dateTime": "2023-09-25T00:00",
+    "timezone": "Europe/Berlin",
+    "provider": "BANK_A",
+    "transactionType": "WITHDRAWAL",
+    "concept": "ATM withdrawal",
+    "description": "ATM withdrawal at downtown branch"
+  },
+  {
+    "accountNumber": "",
+    "transactionId": "",
+    "amount": 1135.32,
+    "currency": "EUR",
+    "country": "DE",
+    "dateTime": "2023-09-25T00:00",
+    "timezone": "Europe/Berlin",
+    "provider": "BANK_B",
+    "transactionType": "DEPOSIT",
+    "concept": "Direct deposit from payroll",
+    "description": "Direct deposit from employer"
+  },
+  {
+    "accountNumber": "1122334455",
+    "transactionId": "TXN1122334455",
+    "amount": 135.32,
+    "currency": "EUR",
+    "country": "DE",
+    "dateTime": "2023-09-25T00:00",
+    "timezone": "Europe/Berlin",
+    "provider": "BANK_C",
+    "transactionType": "TRANSFER",
+    "concept": "Transfer to savings account",
+    "description": "Funds transferred to savings account"
+  },
+  {
+    "accountNumber": "",
+    "transactionId": "",
+    "amount": null,
+    "currency": "",
+    "country": "QW2",
+    "dateTime": "TEST",
+    "timezone": "",
+    "provider": "",
+    "transactionType": "",
+    "concept": "",
+    "description": ""
+  }
+]
